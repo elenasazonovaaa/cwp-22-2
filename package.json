@@ -1,0 +1,7 @@
+{
+  "name": "cwp-22-2",
+  "author": "helen Sazonova",
+  "dependencies": {
+    "@elenasazonovaaa/cwp-22-1": "^1.0.0"
+  }
+}
